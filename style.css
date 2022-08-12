@@ -1,0 +1,29 @@
+    body {
+        background-color: rgb(31, 83, 87);
+        font-family: Raleway;
+    }
+    
+    #divPrincipal {
+        background-color: rgb(255, 255, 255);
+        border-radius: 4px 20px;
+        padding: 5px 20px;
+        margin: 0% 1%;
+        box-shadow: 2px 2px 10px rgb(168, 168, 168);
+        text-align: center;
+    }
+
+    #foto {
+        width: 250px;
+        margin: 10px 5%;
+        border-radius: 4% 20%;
+        background-color: rgb(38, 102, 107);
+        padding: 2px 2px;
+    }
+
+    #fotoDescricao {
+        padding: 0px 50px;
+    }
+
+    ul {
+        
+    }

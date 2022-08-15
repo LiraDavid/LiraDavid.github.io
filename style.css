@@ -17,6 +17,7 @@
         color: white;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         padding: 20px;
+        text-align: center;
     }
 
     #foto {
@@ -25,4 +26,35 @@
         width: 250px;
         margin: 0px 10px;
         padding: 4px 2px;
+        float: left;
     }
+
+    #descricao {
+        position: absolute;
+        text-align: center;
+        top: 18px;
+        margin-right: 10px;
+        margin-left: 272px;
+    }
+
+    #descricaoFoto{
+        height: 258px;
+        
+        position: relative;
+    }
+
+    h4 {
+        padding-left: 10px;
+    }
+/* 
+    div {
+        border: 1px solid green;
+    }
+
+    p,h4 {
+        border: 1px solid blue;
+    }
+
+    ul {
+        border: 1px solid yellow;
+    } */
